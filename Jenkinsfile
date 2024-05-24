@@ -1,5 +1,3 @@
-@Library('JenkinsSharedlibrary') _
-
 pipeline {
     agent any
     parameters {
